@@ -25,7 +25,7 @@ rfc-errata pulls all needed information to run from the [RFC Editor] website. Th
 **Basic Usage**: `rfc-errata [options] [<list of RFCs>]`
 
 **Options**
-   The following parameters affect how svgcheck behaves, however none are required.
+   The following parameters affect how rfc-errata behaves, however none are required.
 
     ===============  ======================= ==================================================
     Short            Long                    Description
